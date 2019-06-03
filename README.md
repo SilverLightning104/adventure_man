@@ -13,6 +13,9 @@ This game is far from complete. Enemies like skeletons, ghosts, and spiders are 
 ![Title](assets\Title.png)
 ![Game](assets\Game.png)
 
+## Download
+![Download Page](https://github.com/SilverLightning104/adventure_man/releases)
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
