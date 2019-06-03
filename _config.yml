@@ -1,1 +1,4 @@
 theme: jekyll-theme-merlot
+title: Adventure Man!
+description: Use the 'arrow keys' to move and 'spacebar' to jump, and reach the flapole at the end of the level.
+show_downloads: True
