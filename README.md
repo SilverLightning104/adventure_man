@@ -14,6 +14,6 @@ This game is far from complete. Enemies like skeletons, ghosts, and spiders are 
 ![Game](assets\Game.png)
 
 ## Download
-![Download Page](https://github.com/SilverLightning104/adventure_man/releases)
+https://github.com/SilverLightning104/adventure_man/releases
 
 
